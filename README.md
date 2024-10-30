@@ -32,5 +32,8 @@ Passionate about travels, movies, running my homelab, domotic and anything tech 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<br />
+<br />
+<br />
 
-
+> "So Long, and Thanks for All the Fish"
