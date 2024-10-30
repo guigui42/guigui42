@@ -21,6 +21,8 @@ Passionate about travels, movies, running my homelab, domotic and anything tech 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![ZSH](https://img.shields.io/badge/ZSH-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GRC](https://img.shields.io/badge/GRC-008080?style=for-the-badge&logo=grc&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FFA500?style=for-the-badge&logo=security&logoColor=white)
 
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/consultant42/)-->
