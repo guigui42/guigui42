@@ -1,4 +1,4 @@
-# Hi there, I'm Guillaume👋
+# Hi there, I'm Guillaume 👋
 
 ## About Me 🚀
 
