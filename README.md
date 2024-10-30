@@ -29,7 +29,7 @@ Passionate about travels, movies, running my homelab, domotic and anything tech 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/consultant42/)-->
 
 ## Get in Touch 📬
-<a href="https://www.linkedin.com/in/consultant42/" target="_blank">
+<a href="https://www.linkedin.com/in/guigui42/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
