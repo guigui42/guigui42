@@ -24,7 +24,7 @@ Passionate about travels, movies, running my homelab, domotic and anything tech 
 [![GRC](https://img.shields.io/badge/GRC-008080?style=for-the-badge&logo=grc&logoColor=white)](https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance)
 [![Security](https://img.shields.io/badge/Security-FFA500?style=for-the-badge&logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Computer_security)
 [![ISO 27001](https://img.shields.io/badge/ISO%2027001-0033A0?style=for-the-badge&logo=iso-27001&logoColor=white)](https://en.wikipedia.org/wiki/ISO/IEC_27001)
-
+[![GDPR](https://img.shields.io/badge/GDPR-0044AA?style=for-the-badge&logo=gdpr&logoColor=white)](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/consultant42/)-->
 
