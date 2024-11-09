@@ -38,3 +38,7 @@ Passionate about travels, movies, running my homelab, domotic and anything tech 
 <br />
 
 > "So Long, and Thanks for All the Fish"
+        
+![Profile View Counter](https://komarev.com/ghpvc/?username=guigui42)
+
+    
