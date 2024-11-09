@@ -33,6 +33,12 @@ Passionate about travels, movies, running my homelab, domotic and anything tech 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+## My Side Project
+### [Demofl.io](https://github.com/demofl-io/demofl.io?tab=readme-ov-file)
+Demofl.io is a powerful Chrome extension designed to streamline the demo creation process for Sales and Solutions Engineers (SEs). It simplifies the way you build, manage, and present demo flows, making your presentations more engaging and effective for prospects.
+
+
+
 <br />
 <br />
 <br />
