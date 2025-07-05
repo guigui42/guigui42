@@ -2,6 +2,8 @@
 
 ## About Me 🚀
 
+Full Time Hubber (GitHub team).
+
 Currently living in 🇫🇷 France
 
 Lived in :
