@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-Full Time Hubber (GitHub team).
+<img alt=":octocat:" width="30" src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" align="absmiddle" class="emoji styles-module__emojiIcon--AXyd_"> Full Time Hubber (GitHub team).
 
 Currently living in 🇫🇷 France
 
